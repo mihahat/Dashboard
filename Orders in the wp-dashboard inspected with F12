@@ -1,0 +1,577 @@
+<div id="woocommerce-order-items" class="postbox ">
+<div class="postbox-header"><h2 class="hndle ui-sortable-handle">Items</h2>
+<div class="handle-actions hide-if-no-js"><button type="button" class="handle-order-higher" aria-disabled="false" aria-describedby="woocommerce-order-items-handle-order-higher-description"><span class="screen-reader-text">Move up</span><span class="order-higher-indicator" aria-hidden="true"></span></button><span class="hidden" id="woocommerce-order-items-handle-order-higher-description">Move Items box up</span><button type="button" class="handle-order-lower" aria-disabled="false" aria-describedby="woocommerce-order-items-handle-order-lower-description"><span class="screen-reader-text">Move down</span><span class="order-lower-indicator" aria-hidden="true"></span></button><span class="hidden" id="woocommerce-order-items-handle-order-lower-description">Move Items box down</span><button type="button" class="handlediv" aria-expanded="true"><span class="screen-reader-text">Toggle panel: Items</span><span class="toggle-indicator" aria-hidden="true"></span></button></div></div><div class="inside">
+<div class="woocommerce_order_items_wrapper wc-order-items-editable">
+	<table cellpadding="0" cellspacing="0" class="woocommerce_order_items">
+		<thead>
+			<tr>
+				<th class="item sortable" colspan="2" data-sort="string-ins">Item</th>
+						<th class="item_location sortable" data-sort="string-ins">Location</th>
+										<th class="item_cost sortable" data-sort="float">Price</th>
+				<th class="quantity sortable" data-sort="int">Qty</th>
+				<th class="line_cost sortable" data-sort="float">Total</th>
+										<th class="line_tax tips">
+							B Tax							<input type="hidden" class="order-tax-id" name="order_taxes[49]" value="1">
+													</th>
+										<th class="wc-order-edit-line-item" width="1%">&nbsp;</th>
+			</tr>
+		</thead>
+		<tbody id="order_line_items">
+			<tr class="item " data-order_item_id="46">
+	<td class="thumb">
+		<div class="wc-order-item-thumbnail"><img width="150" height="150" src="https://www.klotho.ro/wp-content/uploads/2025/05/IMG_0103-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="T-Shirt" title="" loading="lazy"></div>	</td>
+	<td class="name" data-sort-value="T-Shirt">
+		<a href="https://www.klotho.ro/wp-admin/post.php?post=99&amp;action=edit" class="wc-order-item-name">T-Shirt</a><div class="wc-order-item-sku"><strong>SKU:</strong> 123456</div>		<input type="hidden" class="order_item_id" name="order_item_id[]" value="46">
+		<input type="hidden" name="order_item_tax_class[46]" value="">
+
+				<div class="view">
+			<table cellspacing="0" class="display_meta">
+							<tbody><tr>
+					<th>Neckline:</th>
+					<td><p>Halter</p>
+</td>
+				</tr>
+							<tr>
+					<th>Lenght:</th>
+					<td><p>Crop&amp;Halter</p>
+</td>
+				</tr>
+							<tr>
+					<th>Breaksizes:</th>
+					<td><p>S</p>
+</td>
+				</tr>
+					</tbody></table>
+	</div>
+<div class="edit" style="display: none;">
+	<table class="meta" cellspacing="0">
+		<tbody class="meta_items">
+												<tr data-meta_id="401">
+						<td>
+							<input type="text" maxlength="255" placeholder="Name (required)" name="meta_key[46][401]" value="Neckline">
+							<textarea placeholder="Value (required)" name="meta_value[46][401]">Halter</textarea>
+						</td>
+						<td width="1%"><button class="remove_order_item_meta button">×</button></td>
+					</tr>
+									<tr data-meta_id="402">
+						<td>
+							<input type="text" maxlength="255" placeholder="Name (required)" name="meta_key[46][402]" value="Lenght">
+							<textarea placeholder="Value (required)" name="meta_value[46][402]">Crop&amp;Halter</textarea>
+						</td>
+						<td width="1%"><button class="remove_order_item_meta button">×</button></td>
+					</tr>
+									<tr data-meta_id="403">
+						<td>
+							<input type="text" maxlength="255" placeholder="Name (required)" name="meta_key[46][403]" value="Breaksizes">
+							<textarea placeholder="Value (required)" name="meta_value[46][403]">S</textarea>
+						</td>
+						<td width="1%"><button class="remove_order_item_meta button">×</button></td>
+					</tr>
+									</tbody>
+		<tfoot>
+			<tr>
+				<td colspan="4"><button class="add_order_item_meta button">Add&nbsp;meta</button></td>
+			</tr>
+		</tfoot>
+	</table>
+</div>
+			</td>
+
+			<td class="item_location" data-sort-value="–">
+									<div class="view">–</div>
+						</td>
+		
+		<td class="item_cost" width="1%" data-sort-value="200">
+		<div class="view">
+			<span class="woocommerce-Price-amount amount"><bdi>200,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></bdi></span>		</div>
+	</td>
+	<td class="quantity" width="1%">
+		<div class="view">
+			<small class="times">×</small> 1		</div>
+				<div class="edit" style="display: none;">
+			<input type="number" step="1" min="0" autocomplete="off" name="order_item_qty[46]" placeholder="0" value="1" data-qty="1" size="4" class="quantity">
+		</div>
+		<div class="refund" style="display: none;">
+			<input type="number" step="1" min="0" max="1" autocomplete="off" name="refund_order_item_qty[46]" placeholder="0" size="4" class="refund_order_item_qty">
+		</div>
+	</td>
+	<td class="line_cost" width="1%" data-sort-value="200">
+		<div class="view">
+			<span class="woocommerce-Price-amount amount"><bdi>200,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></bdi></span>		</div>
+		<div class="edit" style="display: none;">
+			<div class="split-input">
+				<div class="input">
+					<label>Before discount</label>
+					<input type="text" name="line_subtotal[46]" placeholder="0" value="200" class="line_subtotal wc_input_price" data-subtotal="200">
+				</div>
+				<div class="input">
+					<label>Total</label>
+					<input type="text" name="line_total[46]" placeholder="0" value="200" class="line_total wc_input_price" data-tip="After pre-tax discounts." data-total="200">
+				</div>
+			</div>
+		</div>
+		<div class="refund" style="display: none;">
+			<input type="text" name="refund_line_total[46]" placeholder="0" class="refund_line_total wc_input_price">
+		</div>
+	</td>
+
+				<td class="line_tax" width="1%">
+				<div class="view">
+					<span class="woocommerce-Price-amount amount"><bdi>38,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></bdi></span>				</div>
+				<div class="edit" style="display: none;">
+					<div class="split-input">
+						<div class="input">
+							<label>Before discount</label>
+							<input type="text" name="line_subtotal_tax[46][1]" placeholder="0" value="38" class="line_subtotal_tax wc_input_price" data-subtotal_tax="38" data-tax_id="1">
+						</div>
+						<div class="input">
+							<label>Total</label>
+							<input type="text" name="line_tax[46][1]" placeholder="0" value="38" class="line_tax wc_input_price" data-total_tax="38" data-tax_id="1">
+						</div>
+					</div>
+				</div>
+				<div class="refund" style="display: none;">
+					<input type="text" name="refund_line_tax[46][1]" placeholder="0" class="refund_line_tax wc_input_price" data-tax_id="1">
+				</div>
+			</td>
+				<td class="wc-order-edit-line-item" width="1%">
+		<div class="wc-order-edit-line-item-actions">
+					</div>
+	</td>
+</tr>
+<tr class="item " data-order_item_id="47">
+	<td class="thumb">
+		<div class="wc-order-item-thumbnail"><img width="150" height="150" src="https://www.klotho.ro/wp-content/uploads/2025/05/IMG_0103-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="T-Shirt" title="" loading="lazy"></div>	</td>
+	<td class="name" data-sort-value="T-Shirt">
+		<a href="https://www.klotho.ro/wp-admin/post.php?post=99&amp;action=edit" class="wc-order-item-name">T-Shirt</a><div class="wc-order-item-sku"><strong>SKU:</strong> 123456</div>		<input type="hidden" class="order_item_id" name="order_item_id[]" value="47">
+		<input type="hidden" name="order_item_tax_class[47]" value="">
+
+				<div class="view">
+			<table cellspacing="0" class="display_meta">
+							<tbody><tr>
+					<th>Neckline:</th>
+					<td><p>Halter</p>
+</td>
+				</tr>
+							<tr>
+					<th>Lenght:</th>
+					<td><p>Crop&amp;Halter</p>
+</td>
+				</tr>
+							<tr>
+					<th>Breaksizes:</th>
+					<td><p>M</p>
+</td>
+				</tr>
+					</tbody></table>
+	</div>
+<div class="edit" style="display: none;">
+	<table class="meta" cellspacing="0">
+		<tbody class="meta_items">
+												<tr data-meta_id="415">
+						<td>
+							<input type="text" maxlength="255" placeholder="Name (required)" name="meta_key[47][415]" value="Neckline">
+							<textarea placeholder="Value (required)" name="meta_value[47][415]">Halter</textarea>
+						</td>
+						<td width="1%"><button class="remove_order_item_meta button">×</button></td>
+					</tr>
+									<tr data-meta_id="416">
+						<td>
+							<input type="text" maxlength="255" placeholder="Name (required)" name="meta_key[47][416]" value="Lenght">
+							<textarea placeholder="Value (required)" name="meta_value[47][416]">Crop&amp;Halter</textarea>
+						</td>
+						<td width="1%"><button class="remove_order_item_meta button">×</button></td>
+					</tr>
+									<tr data-meta_id="417">
+						<td>
+							<input type="text" maxlength="255" placeholder="Name (required)" name="meta_key[47][417]" value="Breaksizes">
+							<textarea placeholder="Value (required)" name="meta_value[47][417]">M</textarea>
+						</td>
+						<td width="1%"><button class="remove_order_item_meta button">×</button></td>
+					</tr>
+									</tbody>
+		<tfoot>
+			<tr>
+				<td colspan="4"><button class="add_order_item_meta button">Add&nbsp;meta</button></td>
+			</tr>
+		</tfoot>
+	</table>
+</div>
+			</td>
+
+			<td class="item_location" data-sort-value="–">
+									<div class="view">–</div>
+						</td>
+		
+		<td class="item_cost" width="1%" data-sort-value="200">
+		<div class="view">
+			<span class="woocommerce-Price-amount amount"><bdi>200,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></bdi></span>		</div>
+	</td>
+	<td class="quantity" width="1%">
+		<div class="view">
+			<small class="times">×</small> 1		</div>
+				<div class="edit" style="display: none;">
+			<input type="number" step="1" min="0" autocomplete="off" name="order_item_qty[47]" placeholder="0" value="1" data-qty="1" size="4" class="quantity">
+		</div>
+		<div class="refund" style="display: none;">
+			<input type="number" step="1" min="0" max="1" autocomplete="off" name="refund_order_item_qty[47]" placeholder="0" size="4" class="refund_order_item_qty">
+		</div>
+	</td>
+	<td class="line_cost" width="1%" data-sort-value="200">
+		<div class="view">
+			<span class="woocommerce-Price-amount amount"><bdi>200,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></bdi></span>		</div>
+		<div class="edit" style="display: none;">
+			<div class="split-input">
+				<div class="input">
+					<label>Before discount</label>
+					<input type="text" name="line_subtotal[47]" placeholder="0" value="200" class="line_subtotal wc_input_price" data-subtotal="200">
+				</div>
+				<div class="input">
+					<label>Total</label>
+					<input type="text" name="line_total[47]" placeholder="0" value="200" class="line_total wc_input_price" data-tip="After pre-tax discounts." data-total="200">
+				</div>
+			</div>
+		</div>
+		<div class="refund" style="display: none;">
+			<input type="text" name="refund_line_total[47]" placeholder="0" class="refund_line_total wc_input_price">
+		</div>
+	</td>
+
+				<td class="line_tax" width="1%">
+				<div class="view">
+					<span class="woocommerce-Price-amount amount"><bdi>38,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></bdi></span>				</div>
+				<div class="edit" style="display: none;">
+					<div class="split-input">
+						<div class="input">
+							<label>Before discount</label>
+							<input type="text" name="line_subtotal_tax[47][1]" placeholder="0" value="38" class="line_subtotal_tax wc_input_price" data-subtotal_tax="38" data-tax_id="1">
+						</div>
+						<div class="input">
+							<label>Total</label>
+							<input type="text" name="line_tax[47][1]" placeholder="0" value="38" class="line_tax wc_input_price" data-total_tax="38" data-tax_id="1">
+						</div>
+					</div>
+				</div>
+				<div class="refund" style="display: none;">
+					<input type="text" name="refund_line_tax[47][1]" placeholder="0" class="refund_line_tax wc_input_price" data-tax_id="1">
+				</div>
+			</td>
+				<td class="wc-order-edit-line-item" width="1%">
+		<div class="wc-order-edit-line-item-actions">
+					</div>
+	</td>
+</tr>
+		</tbody>
+		<tbody id="order_fee_line_items">
+					</tbody>
+		<tbody id="order_shipping_line_items">
+			<tr class="shipping " data-order_item_id="48">
+	<td class="thumb"><div></div></td>
+
+	<td class="name">
+		<div class="view">
+			Free shipping		</div>
+		<div class="edit" style="display: none;">
+			<input type="hidden" name="shipping_method_id[]" value="48">
+			<input type="text" class="shipping_method_name" placeholder="Shipping name" name="shipping_method_title[48]" value="Free shipping">
+			<select class="shipping_method" name="shipping_method[48]">
+				<optgroup label="Shipping method">
+					<option value="">N/A</option>
+					<option value="flat_rate">Flat rate</option><option value="free_shipping" selected="selected">Free shipping</option><option value="local_pickup">Local pickup</option><option value="other">Other</option>				</optgroup>
+			</select>
+		</div>
+
+				<div class="view">
+			<table cellspacing="0" class="display_meta">
+							<tbody><tr>
+					<th>Items:</th>
+					<td><p>T-Shirt × 1, T-Shirt × 1</p>
+</td>
+				</tr>
+					</tbody></table>
+	</div>
+<div class="edit" style="display: none;">
+	<table class="meta" cellspacing="0">
+		<tbody class="meta_items">
+												<tr data-meta_id="425">
+						<td>
+							<input type="text" maxlength="255" placeholder="Name (required)" name="meta_key[48][425]" value="Items">
+							<textarea placeholder="Value (required)" name="meta_value[48][425]">T-Shirt &amp;times; 1, T-Shirt &amp;times; 1</textarea>
+						</td>
+						<td width="1%"><button class="remove_order_item_meta button">×</button></td>
+					</tr>
+									</tbody>
+		<tfoot>
+			<tr>
+				<td colspan="4"><button class="add_order_item_meta button">Add&nbsp;meta</button></td>
+			</tr>
+		</tfoot>
+	</table>
+</div>
+			</td>
+
+			<td class="item_location">
+									&nbsp;
+						</td>
+		
+	<td class="item_cost" width="1%">&nbsp;</td>
+	<td class="quantity" width="1%">&nbsp;</td>
+
+	<td class="line_cost" width="1%">
+		<div class="view">
+			<span class="woocommerce-Price-amount amount">0,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></span>		</div>
+		<div class="edit" style="display: none;">
+			<input type="text" name="shipping_cost[48]" placeholder="0" value="0,00" class="line_total wc_input_price">
+		</div>
+		<div class="refund" style="display: none;">
+			<input type="text" name="refund_line_total[48]" placeholder="0" class="refund_line_total wc_input_price">
+		</div>
+	</td>
+
+				<td class="line_tax" width="1%">
+				<div class="view">
+					–				</div>
+				<div class="edit" style="display: none;">
+					<input type="text" name="shipping_taxes[48][1]" placeholder="0" value="" class="line_tax wc_input_price">
+				</div>
+				<div class="refund" style="display: none;">
+					<input type="text" name="refund_line_tax[48][1]" placeholder="0" class="refund_line_tax wc_input_price" data-tax_id="1">
+				</div>
+			</td>
+				<td class="wc-order-edit-line-item">
+			</td>
+</tr>
+		</tbody>
+		<tbody id="order_refunds">
+					</tbody>
+	</table>
+</div>
+<div class="wc-order-data-row wc-order-totals-items wc-order-items-editable">
+		<table class="wc-order-totals">
+			<tbody><tr>
+				<td class="label">Items Subtotal:</td>
+				<td width="1%"></td>
+				<td class="total">
+					<span class="woocommerce-Price-amount amount"><bdi>400,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></bdi></span>				</td>
+			</tr>
+				
+		
+					<tr>
+				<td class="label">Shipping:</td>
+				<td width="1%"></td>
+				<td class="total">
+					<span class="woocommerce-Price-amount amount"><bdi>0,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></bdi></span>				</td>
+			</tr>
+		
+		
+									<tr>
+					<td class="label">B Tax:</td>
+					<td width="1%"></td>
+					<td class="total">
+						<span class="woocommerce-Price-amount amount"><bdi>76,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></bdi></span>					</td>
+				</tr>
+					
+		
+		<tr>
+			<td class="label">Order Total:</td>
+			<td width="1%"></td>
+			<td class="total">
+				<span class="woocommerce-Price-amount amount"><bdi>476,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></bdi></span>			</td>
+		</tr>
+
+	</tbody></table>
+
+	<div class="clear"></div>
+
+	
+		<table class="wc-order-totals" style="border-top: 1px solid #999; margin-top:12px; padding-top:12px">
+			<tbody><tr>
+				<td class="label label-highlight">Paid: <br></td>
+				<td width="1%"></td>
+				<td class="total">
+					<span class="woocommerce-Price-amount amount"><bdi>476,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></bdi></span>				</td>
+			</tr>
+			<tr>
+				<td>
+					<span class="description">
+					July 17, 2025 via Credit / Debit Card					</span>
+				</td>
+				<td colspan="2"></td>
+			</tr>
+		</tbody></table>
+
+	<div class="clear"></div>
+
+	
+	
+	
+	<div class="clear"></div>
+
+	<table class="wc-order-totals">
+		
+		<tbody><tr>
+			<td class="label stripe-fee">
+				<span class="woocommerce-help-tip" tabindex="0" aria-label="This represents the fee Stripe collects for the transaction."></span>				Stripe Fee:			</td>
+			<td width="1%"></td>
+			<td class="total">
+				-<span class="woocommerce-Price-amount amount"><bdi>16,47&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></bdi></span>			</td>
+		</tr>
+
+		
+		<tr>
+			<td class="label stripe-payout">
+				<span class="woocommerce-help-tip" tabindex="0" aria-label="This represents the net total that will be credited to your Stripe bank account. This may be in the currency that is set in your Stripe account."></span>				Stripe Payout:			</td>
+			<td width="1%"></td>
+			<td class="total">
+				<span class="woocommerce-Price-amount amount"><bdi>459,53&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></bdi></span>			</td>
+		</tr>
+
+			</tbody></table>
+
+	<div class="clear"></div>
+</div>
+<div class="wc-order-data-row wc-order-bulk-actions wc-order-data-row-toggle">
+	<p class="add-items">
+					<span class="description"><span class="woocommerce-help-tip" tabindex="0" aria-label="To edit this order change the status back to &quot;Pending payment&quot;"></span> This order is no longer editable.</span>
+							<button type="button" class="button refund-items">Refund</button>
+							</p>
+</div>
+<div class="wc-order-data-row wc-order-add-item wc-order-data-row-toggle" style="display:none;">
+	<button type="button" class="button add-order-item">Add product(s)</button>
+	<button type="button" class="button add-order-fee">Add fee</button>
+	<button type="button" class="button add-order-shipping">Add shipping</button>
+			<button type="button" class="button add-order-tax">Add tax</button>
+			<button type="button" class="button cancel-action">Cancel</button>
+	<button type="button" class="button button-primary save-action">Save</button>
+</div>
+<div class="wc-order-data-row wc-order-refund-items wc-order-data-row-toggle" style="display: none;">
+	<table class="wc-order-totals">
+					<tbody><tr>
+				<td class="label"><label for="restock_refunded_items">Restock refunded items:</label></td>
+				<td class="total"><input type="checkbox" id="restock_refunded_items" name="restock_refunded_items" checked="checked"></td>
+			</tr>
+				<tr>
+			<td class="label">Amount already refunded:</td>
+			<td class="total">-<span class="woocommerce-Price-amount amount"><bdi>0,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></bdi></span></td>
+		</tr>
+		<tr>
+			<td class="label">Total available to refund:</td>
+			<td class="total"><span class="woocommerce-Price-amount amount"><bdi>476,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></bdi></span></td>
+		</tr>
+		<tr>
+			<td class="label">
+				<label for="refund_amount">
+					<span class="woocommerce-help-tip" tabindex="0" aria-label="Refund the line items above. This will show the total amount to be refunded"></span>					Refund amount:
+				</label>
+			</td>
+			<td class="total">
+				<input type="text" id="refund_amount" name="refund_amount" class="wc_input_price" readonly="">
+				<div class="clear"></div>
+			</td>
+		</tr>
+		<tr>
+			<td class="label">
+				<label for="refund_reason">
+					<span class="woocommerce-help-tip" tabindex="0" aria-label="Note: the refund reason will be visible by the customer."></span>					Reason for refund (optional):				</label>
+			</td>
+			<td class="total">
+				<input type="text" id="refund_reason" name="refund_reason">
+				<div class="clear"></div>
+			</td>
+		</tr>
+	</tbody></table>
+	<div class="clear"></div>
+	<div class="refund-actions">
+		<button type="button" class="button button-primary do-api-refund">Refund <span class="wc-order-refund-amount"><span class="woocommerce-Price-amount amount">0,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></span></span> via Stripe</button>				<button type="button" class="button button-primary do-manual-refund tips">Refund <span class="wc-order-refund-amount"><span class="woocommerce-Price-amount amount">0,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></span></span> manually</button>
+		<button type="button" class="button cancel-action">Cancel</button>
+		<input type="hidden" id="refunded_amount" name="refunded_amount" value="0">
+		<div class="clear"></div>
+	</div>
+</div>
+
+<script type="text/template" id="tmpl-wc-modal-add-products">
+	<div class="wc-backbone-modal">
+		<div class="wc-backbone-modal-content">
+			<section class="wc-backbone-modal-main" role="main">
+				<header class="wc-backbone-modal-header">
+					<h1>Add products</h1>
+					<button class="modal-close modal-close-link dashicons dashicons-no-alt">
+						<span class="screen-reader-text">Close modal panel</span>
+					</button>
+				</header>
+				<article>
+					<form action="" method="post">
+						<table class="widefat">
+							<thead>
+								<tr>
+									<th>Product</th>
+									<th>Quantity</th>
+								</tr>
+							</thead>
+														<tbody data-row="
+									&lt;td&gt;&lt;select class=&quot;wc-product-search&quot; name=&quot;item_id&quot; data-allow_clear=&quot;true&quot; data-display_stock=&quot;true&quot; data-exclude_type=&quot;variable&quot; data-placeholder=&quot;Search for a product&hellip;&quot;&gt;&lt;/select&gt;&lt;/td&gt;
+									&lt;td&gt;&lt;input type=&quot;number&quot; step=&quot;1&quot; min=&quot;0&quot; max=&quot;9999&quot; autocomplete=&quot;off&quot; name=&quot;item_qty&quot; placeholder=&quot;1&quot; size=&quot;4&quot; class=&quot;quantity&quot; /&gt;&lt;/td&gt;">
+								<tr>
+									
+									<td><select class="wc-product-search" name="item_id" data-allow_clear="true" data-display_stock="true" data-exclude_type="variable" data-placeholder="Search for a product&hellip;"></select></td>
+									<td><input type="number" step="1" min="0" max="9999" autocomplete="off" name="item_qty" placeholder="1" size="4" class="quantity" /></td>								</tr>
+							</tbody>
+						</table>
+					</form>
+				</article>
+				<footer>
+					<div class="inner">
+						<button id="btn-ok" class="button button-primary button-large">Add</button>
+					</div>
+				</footer>
+			</section>
+		</div>
+	</div>
+	<div class="wc-backbone-modal-backdrop modal-close"></div>
+</script>
+
+<script type="text/template" id="tmpl-wc-modal-add-tax">
+	<div class="wc-backbone-modal">
+		<div class="wc-backbone-modal-content">
+			<section class="wc-backbone-modal-main" role="main">
+				<header class="wc-backbone-modal-header">
+					<h1>Add tax</h1>
+					<button class="modal-close modal-close-link dashicons dashicons-no-alt">
+						<span class="screen-reader-text">Close modal panel</span>
+					</button>
+				</header>
+				<article>
+					<form action="" method="post">
+						<table class="widefat">
+							<thead>
+								<tr>
+									<th>&nbsp;</th>
+									<th>Rate name</th>
+									<th>Tax class</th>
+									<th>Rate code</th>
+									<th>Rate %</th>
+								</tr>
+							</thead>
+						
+									<tr>
+										<td><input type="radio" id="add_order_tax_1" name="add_order_tax" value="1" /></td>
+										<td><label for="add_order_tax_1">B Tax</label></td>
+										<td>Standard</td>
+										<td>RO-B-B TAX-1</td>
+										<td>19%</td>
+									</tr>
+														</table>
+											</form>
+				</article>
+				<footer>
+					<div class="inner">
+						<button id="btn-ok" class="button button-primary button-large">Add</button>
+					</div>
+				</footer>
+			</section>
+		</div>
+	</div>
+	<div class="wc-backbone-modal-backdrop modal-close"></div>
+</script>
+</div>
+</div>
