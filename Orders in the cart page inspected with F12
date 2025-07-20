@@ -1,0 +1,27 @@
+<li class="bde-mini-cart-item woocommerce-mini-cart-item mini_cart_item">
+                    
+                                            <a class="bde-mini-cart-item-thumbnail" href="https://www.klotho.ro/product/t-shirt/?options=%5B%7B%27name%27%3A%27neckline%27%2C%27value%27%3A%27Scoop%27%2C%27id%27%3A%27scoop%27%2C%27step_id%27%3A%27353%27%7D%2C%7B%27name%27%3A%27lenght%27%2C%27value%27%3A%27Scoop%26Crop%27%2C%27id%27%3A%27scoopcrop%27%2C%27step_id%27%3A%271256%27%7D%2C%7B%27name%27%3A%27breaksizes%27%2C%27value%27%3A%27M%27%2C%27id%27%3A%27m%27%2C%27step_id%27%3A%27643%27%7D%5D&amp;sgg_key=b01af8a08a516e6a8b6fae07d173eed1">
+                            <img width="300" height="300" src="https://www.klotho.ro/wp-content/uploads/2025/05/IMG_0103-scaled-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="T-Shirt" decoding="async" loading="lazy" srcset="https://www.klotho.ro/wp-content/uploads/2025/05/IMG_0103-scaled-300x300.jpg 300w, https://www.klotho.ro/wp-content/uploads/2025/05/IMG_0103-150x150.jpg 150w" sizes="auto, (max-width: 300px) 100vw, 300px">                        </a>
+
+                        <a class="bde-mini-cart-item-title product-title" href="https://www.klotho.ro/product/t-shirt/?options=%5B%7B%27name%27%3A%27neckline%27%2C%27value%27%3A%27Scoop%27%2C%27id%27%3A%27scoop%27%2C%27step_id%27%3A%27353%27%7D%2C%7B%27name%27%3A%27lenght%27%2C%27value%27%3A%27Scoop%26Crop%27%2C%27id%27%3A%27scoopcrop%27%2C%27step_id%27%3A%271256%27%7D%2C%7B%27name%27%3A%27breaksizes%27%2C%27value%27%3A%27M%27%2C%27id%27%3A%27m%27%2C%27step_id%27%3A%27643%27%7D%5D&amp;sgg_key=b01af8a08a516e6a8b6fae07d173eed1">
+                            T-Shirt                            <dl class="variation">
+			<dt class="variation-Neckline">Neckline:</dt>
+		<dd class="variation-Neckline"><p>Scoop</p>
+</dd>
+			<dt class="variation-Lenght">Lenght:</dt>
+		<dd class="variation-Lenght"><p>Scoop&amp;Crop</p>
+</dd>
+			<dt class="variation-Size">Size:</dt>
+		<dd class="variation-Size"><p>M</p>
+</dd>
+	</dl>
+                        </a>
+                    
+                    <a href="https://www.klotho.ro/cart/?remove_item=b01af8a08a516e6a8b6fae07d173eed1&amp;_wpnonce=a42c086079" class="remove remove_from_cart_button" aria-label="Remove T-Shirt from cart" data-product_id="99" data-cart_item_key="b01af8a08a516e6a8b6fae07d173eed1" data-product_sku="123456">×</a>
+                    <div class="bde-mini-cart-quantity"><div class="quantity quantity--number">
+	    <label class="screen-reader-text" for="quantity_687c7fba7f3f6">T-Shirt quantity</label>
+        <button class="bde-quantity-button bde-quantity-button--dec" type="button" aria-label="Decrement"></button>
+        <input type="number" id="quantity_687c7fba7f3f6" class="input-text qty text" name="cart[b01af8a08a516e6a8b6fae07d173eed1][qty]" value="1" aria-label="Product quantity" size="4" min="0" max="50" step="1" placeholder="" inputmode="numeric" autocomplete="off">
+        <button class="bde-quantity-button bde-quantity-button--inc" type="button" aria-label="Increment"></button>
+        </div>
+ <span class="woocommerce-Price-amount amount"><bdi>200,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></bdi></span></div><div class="bde-mini-cart-quantity-simple"><span class="quantity">1 × <span class="woocommerce-Price-amount amount"><bdi>200,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></bdi></span></span></div>                </li>
