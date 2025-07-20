@@ -1,0 +1,78 @@
+<div class="bde-cart-contents-25-102 bde-cart-contents breakdance-woocommerce">
+<div class="woocommerce-notices-wrapper">
+	<div class="woocommerce-message" role="alert" tabindex="-1">
+		“T-Shirt” has been added to your cart. <a href="https://www.klotho.ro/product/t-shirt/" class="button wc-forward">Continue shopping</a>	</div>
+</div>
+<form class="woocommerce-cart-form" action="https://www.klotho.ro/cart/" method="post">
+    
+    <table class="shop_table shop_table_responsive cart woocommerce-cart-form__contents" cellspacing="0">
+        <thead>
+        <tr>
+            <th class="product-remove">&nbsp;</th>
+            <th class="product-thumbnail">&nbsp;</th>
+            <th class="product-name">Product</th>
+            <th class="product-price">Price</th>
+            <th class="product-quantity">Quantity</th>
+            <th class="product-subtotal">Subtotal</th>
+        </tr>
+        </thead>
+        <tbody>
+        
+                        <tr class="woocommerce-cart-form__cart-item cart_item">
+
+                    <td class="product-remove">
+                        <a href="https://www.klotho.ro/cart/?remove_item=ba937986b7d635c452b1352bd671716e&amp;_wpnonce=a42c086079" class="remove" aria-label="Remove this item" data-product_id="99" data-product_sku="123456">×</a>                    </td>
+
+                    <td class="product-thumbnail">
+                        <a href="https://www.klotho.ro/product/t-shirt/?options=%5B%7B%27name%27%3A%27neckline%27%2C%27value%27%3A%27Scoop%27%2C%27id%27%3A%27scoop%27%2C%27step_id%27%3A%27353%27%7D%2C%7B%27name%27%3A%27lenght%27%2C%27value%27%3A%27Scoop%26Long%27%2C%27id%27%3A%27scooplong%27%2C%27step_id%27%3A%271256%27%7D%2C%7B%27name%27%3A%27breaksizes%27%2C%27value%27%3A%27L%27%2C%27id%27%3A%27l%27%2C%27step_id%27%3A%27643%27%7D%5D&amp;sgg_key=ba937986b7d635c452b1352bd671716e"><img width="300" height="300" src="https://www.klotho.ro/wp-content/uploads/2025/05/IMG_0103-scaled-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="T-Shirt" decoding="async" loading="lazy" srcset="https://www.klotho.ro/wp-content/uploads/2025/05/IMG_0103-scaled-300x300.jpg 300w, https://www.klotho.ro/wp-content/uploads/2025/05/IMG_0103-150x150.jpg 150w" sizes="auto, (max-width: 300px) 100vw, 300px"></a>                    </td>
+
+                    <td class="product-name" data-title="Product">
+                        <a href="https://www.klotho.ro/product/t-shirt/?options=%5B%7B%27name%27%3A%27neckline%27%2C%27value%27%3A%27Scoop%27%2C%27id%27%3A%27scoop%27%2C%27step_id%27%3A%27353%27%7D%2C%7B%27name%27%3A%27lenght%27%2C%27value%27%3A%27Scoop%26Long%27%2C%27id%27%3A%27scooplong%27%2C%27step_id%27%3A%271256%27%7D%2C%7B%27name%27%3A%27breaksizes%27%2C%27value%27%3A%27L%27%2C%27id%27%3A%27l%27%2C%27step_id%27%3A%27643%27%7D%5D&amp;sgg_key=ba937986b7d635c452b1352bd671716e">T-Shirt</a><dl class="variation">
+			<dt class="variation-Neckline">Neckline:</dt>
+		<dd class="variation-Neckline"><p>Scoop</p>
+</dd>
+			<dt class="variation-Lenght">Lenght:</dt>
+		<dd class="variation-Lenght"><p>Scoop&amp;Long</p>
+</dd>
+			<dt class="variation-Size">Size:</dt>
+		<dd class="variation-Size"><p>L</p>
+</dd>
+	</dl>
+                    </td>
+
+                    <td class="product-price" data-title="Price">
+                        <span class="woocommerce-Price-amount amount"><bdi>200,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></bdi></span>                    </td>
+
+                    <td class="product-quantity" data-title="Quantity">
+                        <div class="quantity quantity--number">
+	    <label class="screen-reader-text" for="quantity_687cc39d4495b">T-Shirt quantity</label>
+        <button class="bde-quantity-button bde-quantity-button--dec" type="button" aria-label="Decrement"></button>
+        <input type="number" id="quantity_687cc39d4495b" class="input-text qty text" name="cart[ba937986b7d635c452b1352bd671716e][qty]" value="1" aria-label="Product quantity" size="4" min="0" max="50" step="1" placeholder="" inputmode="numeric" autocomplete="off">
+        <button class="bde-quantity-button bde-quantity-button--inc" type="button" aria-label="Increment"></button>
+        </div>
+                    </td>
+
+                    <td class="product-subtotal" data-title="Subtotal">
+                        <span class="woocommerce-Price-amount amount"><bdi>200,00&nbsp;<span class="woocommerce-Price-currencySymbol">lei</span></bdi></span>                    </td>
+                </tr>
+                
+        
+        <tr>
+            <td colspan="6" class="actions">
+
+                                    <div class="coupon">
+                        <label for="coupon_code">Coupon:</label> <input type="text" name="coupon_code" class="input-text" id="coupon_code" value="" placeholder="Coupon code"> <button type="submit" class="button" name="apply_coupon" value="Apply coupon">Apply coupon</button>
+                                            </div>
+                
+                <button type="submit" class="button" name="update_cart" value="Update cart" disabled="">Update cart</button>
+
+                
+                <input type="hidden" id="woocommerce-cart-nonce" name="woocommerce-cart-nonce" value="a42c086079"><input type="hidden" name="_wp_http_referer" value="/cart/">            </td>
+        </tr>
+
+                </tbody>
+    </table>
+    </form>
+
+
+</div>
